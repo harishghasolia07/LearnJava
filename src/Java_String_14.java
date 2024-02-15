@@ -4,7 +4,7 @@ public class Java_String_14 {
         int length = name.length();
         String lString = name.toLowerCase();
         System.out.println(lString);
-        String nonTrimmedString = "   Harish   ";
+        String nonTrimmedString = "    Harish    ";
         String Trimming = nonTrimmedString.trim();
         System.out.println(Trimming);
         System.out.println(name.substring(2));

@@ -9,7 +9,7 @@ public class Java_String_Practice_15 {
         System.out.println(newString.indexOf(" "));
         System.out.println(newString.indexOf("  "));
         System.out.println(newString.indexOf("   "));
-        System.out.println(newString.indexOf("    "));
+        System.out.println(newString.indexOf("     "));
 
     }
 }
