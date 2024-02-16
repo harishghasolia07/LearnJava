@@ -4,7 +4,7 @@ public class Java_Rock_paper_20 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Random random = new Random();
-        System.out.print("Enter your Number between 0 to 2: ");
+        System.out.print("Enter your Number between 0 to 2:");
         int a;
         a = sc.nextInt();
         int b = random.nextInt(3);

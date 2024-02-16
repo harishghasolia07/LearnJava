@@ -22,7 +22,7 @@ public class Java_Practice_19 {
 //            System.out.print("Your overall percentage is "+overall_percentage+"% and you are passed!");
 //        }
         int day;
-        System.out.println("Enter the day : ");
+        System.out.println("Enter the day :");
         day = sc.nextInt();
         switch (day){
             case 1:

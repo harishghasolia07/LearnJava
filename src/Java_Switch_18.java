@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Java_Switch_18 {
     public static void main(String[] args){
         Scanner sc =new Scanner(System.in);
-        System.out.print("Enter the value of a : ");
+        System.out.print("Enter the value of a :");
         int a;
         a = sc.nextInt();
         switch (a){
