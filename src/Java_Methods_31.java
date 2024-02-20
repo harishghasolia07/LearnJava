@@ -1,5 +1,6 @@
 public class Java_Methods_31 {
-     static int logic(int x, int y) {
+//  Method -->
+    static int logic(int x, int y) {
         int z;
         if(x>y){
             z= (x+y);
@@ -15,7 +16,7 @@ public class Java_Methods_31 {
         int a = 15;
         int b = 7;
         int c;
-//        Method Invocation using object creation.
+//        Method Invocation using object creation -->
 //        Java_Methods_31 obj = new Java_Methods_31();
 //        c = obj.logic(a,b);
         c = logic(a,b);
