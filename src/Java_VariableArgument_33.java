@@ -3,6 +3,7 @@ public class Java_VariableArgument_33 {
 //        return a+b;
 //    }
     static int sum(int x,int ...arr){
+//        int x is a compulsory argument
 //        int ...arr is treated like int [] arr
         int result = x;
         for (int i = 0; i < arr.length; i++) {
