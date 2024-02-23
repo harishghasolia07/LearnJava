@@ -10,7 +10,7 @@ public class Java_ArrayPractice_29 {
 //        }
 //        System.out.println(sum);
 //
-//        Q.2-------------****--------------
+//        Q.2-------------****-------------------
 //        int a;
 //        Scanner sc = new Scanner(System.in);
 //        System.out.print("Enter a number : ");
@@ -30,7 +30,7 @@ public class Java_ArrayPractice_29 {
 //            System.out.print("NOT Present");
 //        }
 
-//        Q.4------------------------
+//        Q.4------------------------------------
 
 //        int sum=0;
 //        int [][] num;
@@ -51,7 +51,7 @@ public class Java_ArrayPractice_29 {
 //        }
 //        System.out.println("Sum is : "+sum);
 //
-//        Q.5------------******-----------
+//        Q.5------------******--------------------
 
 //        int[] arr = {1, 2, 3, 4, 5};
 //        int l = arr.length;
@@ -66,7 +66,7 @@ public class Java_ArrayPractice_29 {
 //            System.out.print(arr[i] + " ");
 //        }
 //
-//        Q.6------------************-------------------
+//        Q.6------------************---------------
 //        For MAX -->
 //        int arr[]={-1,-2,-3,-10,-5,-6};
 //        int max=Integer.MIN_VALUE;
@@ -87,20 +87,20 @@ public class Java_ArrayPractice_29 {
 //        }
 //        System.out.print(min);
 //
-//        Q.7-------------**********--------------------
-        int arr[] = {1,2,3,5,6};
-        boolean isSorted = true;
-        for (int i = 0; i < arr.length-1; i++) {
-            if(arr[i]>arr[i+1]){
-                isSorted = false;
-                break;
-              }
-          }
-        if(isSorted){
-            System.out.print("Array is Sorted!!");
-        }
-        else {
-            System.out.print("Array is not sorted!!");
-        }
+//        Q.7-------------**********------------------
+//        int arr[] = {1,2,3,5,6};
+//        boolean isSorted = true;
+//        for (int i = 0; i < arr.length-1; i++) {
+//            if(arr[i]>arr[i+1]){
+//                isSorted = false;
+//                break;
+//              }
+//          }
+//        if(isSorted){
+//            System.out.print("Array is Sorted!!");
+//        }
+//        else {
+//            System.out.print("Array is not sorted!!");
+//        }
         }
     }
