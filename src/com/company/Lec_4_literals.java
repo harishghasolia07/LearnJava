@@ -1,3 +1,5 @@
+package com.company;
+
 public class Lec_4_literals {
     public static void main(String[] args){
         byte age = 20;

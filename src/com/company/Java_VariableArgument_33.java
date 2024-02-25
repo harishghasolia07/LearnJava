@@ -1,3 +1,5 @@
+package com.company;
+
 public class Java_VariableArgument_33 {
 //    static int sum(int a , int b){
 //        return a+b;

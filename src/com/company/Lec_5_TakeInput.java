@@ -1,3 +1,5 @@
+package com.company;
+
 import java.util.Scanner;
 public class Lec_5_TakeInput {
     public static void main(String[] args) {

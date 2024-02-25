@@ -1,3 +1,5 @@
+package com.company;
+
 public class Java_String_14 {
     public static void main(String[] args){
         String name = "Harish";

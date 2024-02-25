@@ -1,3 +1,5 @@
+package com.company;
+
 public class Java_array_26 {
     public static void main(String[] args) {
 //        int [] marks = new int[5];

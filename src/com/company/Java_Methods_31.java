@@ -1,3 +1,5 @@
+package com.company;
+
 public class Java_Methods_31 {
 //  Method -->
     static int logic(int x, int y) {

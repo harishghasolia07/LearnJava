@@ -1,3 +1,5 @@
+package com.company;
+
 import java.util.Scanner;
 public class Java_basic_1 {
     public static void main(String[] args){

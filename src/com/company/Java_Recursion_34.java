@@ -1,3 +1,5 @@
+package com.company;
+
 public class Java_Recursion_34 {
     static int factorial(int n){ //Method Creation
 //        factorial(n)=n*n-1*n-2....1

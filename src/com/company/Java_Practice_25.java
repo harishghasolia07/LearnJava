@@ -1,3 +1,5 @@
+package com.company;
+
 public class Java_Practice_25 {
     public static void main(String[] args) {
 //        Q.1--------------------------------------

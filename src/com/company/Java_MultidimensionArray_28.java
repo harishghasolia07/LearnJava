@@ -1,3 +1,5 @@
+package com.company;
+
 public class Java_MultidimensionArray_28 {
     public static void main(String[] args) {
         int [][] flats;

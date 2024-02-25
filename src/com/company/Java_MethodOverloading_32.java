@@ -1,3 +1,5 @@
+package com.company;
+
 public class Java_MethodOverloading_32 {
 //When we want to return nothing then we use Void return keyword.
 //static void joke() --> Its mean this method will be shared by all objects of this class(class=>Java_MethodOverloading_32)

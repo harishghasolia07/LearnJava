@@ -1,3 +1,5 @@
+package com.company;
+
 public class Java_String_Practice_15 {
     public static void main(String[] args){
 //        String Text = "Say My Name";

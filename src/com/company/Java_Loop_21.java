@@ -1,3 +1,5 @@
+package com.company;
+
 public class Java_Loop_21 {
     public static void main(String[] args) {
 //        int i=1;
