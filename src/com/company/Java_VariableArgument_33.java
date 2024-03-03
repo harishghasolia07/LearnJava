@@ -1,5 +1,12 @@
 package com.company;
 
+/*
+Arguments & Parameters-
+void sum(int a , int b) --> a,b are parameters.
+sum(1,2) --> 1,2 are arguments.So arguments are actual.
+*/
+
+
 public class Java_VariableArgument_33 {
 //    static int sum(int a , int b){
 //        return a+b;
